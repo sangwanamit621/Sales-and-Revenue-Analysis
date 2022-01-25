@@ -2,7 +2,9 @@
 
 
 ### What is data analysis?
-> The process of analyzing raw data to find trends and insights which can help in making decisions which can benefit any one. In data analysis, we perform various operations like obtaining raw data, organizing and cleaning it, storing it in an accessible place, modeling, and then analyzing data to extract insights that support decision-making.
+> The process of analyzing raw data to find trends and insights which can help in making decisions which can benefit any one.
+> In data analysis, we perform various operations like obtaining raw data, organizing and cleaning it, storing it in an 
+> accessible place, modeling, and then analyzing data to extract insights that support decision-making.
 
 
 ### What tools are used in data analysis?
@@ -36,11 +38,11 @@
 
 ## About the Project
 
-      Sales management has gained importance to meet increasing competition and the need for improved methods of distribution 
-      to reduce cost and to increase profits. The objective of this project is to perform data analysis and visualisation and 
-      built dashboards to provide insights that can help in making data driven decisions to increase sales and revenue of the 
-      company. The objective of this project is to analyse the Sales and Revenue trend. This project will help in identifying 
-      major markets in terms of Sales and Revenue.
+>Sales management has gained importance to meet increasing competition and the need for improved methods of distribution 
+to reduce cost and to increase profits. The objective of this project is to perform data analysis and visualisation and 
+built dashboards to provide insights that can help in making data driven decisions to increase sales and revenue of the 
+company. The objective of this project is to analyse the Sales and Revenue trend. This project will help in identifying 
+major markets in terms of Sales and Revenue.
       
   
 ## Tools Used
