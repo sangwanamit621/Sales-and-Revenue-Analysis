@@ -2,11 +2,11 @@
 
 
 ### What is data analysis?
-> The process of analyzing raw data to find trends and insights which can help in making decisions that can benefit anyone.In data analysis, we perform various operations like obtaining raw data, organizing and cleaning it, storing it in an accessible place, modeling, and then analyzing data to extract insights that support decision-making.
+> The process of analyzing raw data to find trends and insights can be used to make decisions that benefit anyone. In data analysis, we perform various operations like obtaining raw data, organizing and cleaning it, storing it in an accessible place, modeling, and then analyzing data to extract insights that support decision-making.
 
 
 ### What tools are used in data analysis?
-> For analysis of data, a Data Analyst requires many tools to gather insights from data. Some of the important tools are:
+> Data analysts need many tools to gather insights from data. Important tools are listed below.
 
   * **Power BI** : Power BI provides interactive visualizations with self-service business intelligence capabilities, where end users can create dashboards and reports by themselves, without having to depend on anybody.
     
@@ -23,7 +23,7 @@
 
 ## About the Project
 
->Sales management has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. In this project, we had to perform data analysis and visualization and develop a dashboard to provide insights that can help make data-driven decisions to increase the company's sales and revenue. The objective was to analyze the sales and revenue trend and identify major markets from a sales and revenue perspective.
+>Sales management has gained importance to meet increasing competition and the need for improved distribution methods to reduce cost and increase profits. We had to perform data analysis and visualization and develop a dashboard to help make data-driven decisions to increase the company's sales and revenue to complete the project. The objective was to analyze the sales and revenue trend and identify major markets from a sales and revenue perspective.
   
 ## Tools Used
 
