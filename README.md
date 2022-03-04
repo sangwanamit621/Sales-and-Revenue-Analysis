@@ -1,4 +1,4 @@
-<h1 align="center">Amazon-Sales-and-Revenue-Analysis  </h1>
+<h1 align="center">Sales-and-Revenue-Analysis  </h1>
 
 
 ### What is data analysis?
